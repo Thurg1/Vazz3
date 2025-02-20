@@ -10,12 +10,14 @@
 ,BR !🟩🟨*
 
 - 🔭 I’m currently working on Nothing
+print("Fvck")
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on Robotic team
 - 💬 Ask me about Barbecue
 - ⚡ Fun fact: Barbecue lover
 ![alt text](image-1.png)
 - 📫 How to reach me: otavioprograminhas30@gmail.com
+
 
 
 
